@@ -1,0 +1,8 @@
+{
+  "app.clickup.com": {
+    "css": ".task-description-history-list-wrapper.cu-modal.cu-modal_md .cu-modal__dialog {\n  width: 80% !important;\n}\n\n.comment-viewer__txt-preview{\n  background-color: black;\n}",
+    "readability": false,
+    "enabled": true,
+    "modifiedTime": "2024-03-27T09:47:42.363+01:00"
+  }
+}
